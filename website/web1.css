@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.all-part{
+    text-align: center;
+    background:#fff;
+    width: 1024px;
+    margin: 10px auto;
+    box-shadow: 1px 1px 5px black;
+    
+}
+
+.menu{
+    background: #7f8c8d;
+    color: white;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.container{
+    text-align: justify;
+    color: white;
+    background: #34495e;
+}
+
+p{
+    padding: 5px 10px;
+}
+.footer{
+    background: #636e72;
+    color: white;
+
+}
+
+.footer-bottom{
+    background: #2c3e50;
+    color: white;
+    padding: auto;
+}
+img{
+    max-width: 100%;
+    
+}
+
+.op{
+    padding: 20px;
+}
+.opx{
+    padding: 50px 0px;
+}
